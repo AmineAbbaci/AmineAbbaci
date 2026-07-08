@@ -1,6 +1,6 @@
 # Hi, I'm Amine 👋
 
-Software engineering student specializing in backend development, building toward a freelance career with international clients.
+Software engineering student specializing in backend development.
 
 ## 🛠️ Stack
 
