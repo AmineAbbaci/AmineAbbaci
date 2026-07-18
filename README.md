@@ -11,5 +11,5 @@ Software engineering student specializing in backend development.
 `React` `Tailwind CSS` — full-stack when the project calls for it
 
 **Tools**
-`Git` `VPS deployment` `Caddy` `Vercel` `Docker`
+`Git` `VPS deployment` `Caddy` 
 
